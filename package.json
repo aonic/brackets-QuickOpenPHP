@@ -1,0 +1,22 @@
+{
+    "name": "aonic.brackets-quickopenphp",
+    "title": "QuickOpenPHP",
+    "description": "Adobe Brackets Ctrl+T QuickOpen function definition support for PHP",
+    "keywords": [
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aonic/brackets-QuickOpenPHP.git"
+    },
+    "homepage": "https://github.com/aonic/brackets-QuickOpenPHP",
+    "author": {
+        "name": "Raja Kapur",
+        "email": "raja.kapur@gmail.com",
+        "url": "https://github.com/aonic"
+    },
+    "license": "MIT",
+    "version": "0.0.1",
+    "engines": {
+        "brackets": ">=0.37.0"
+    }
+}
