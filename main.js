@@ -167,7 +167,7 @@ define(function (require, exports, module) {
     QuickOpen.addQuickOpenPlugin(
         {
             name: "PHP functions",
-            fileTypes: ["php", "inc", "phtml"],
+            languageIds: ["php", "inc", "phtml"],
             done: done,
             search: search,
             match: match,
